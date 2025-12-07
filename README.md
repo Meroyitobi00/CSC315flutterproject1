@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Images
 ![login_page](asset/images/login.png)
-![signup_page](asset/images/sign up.png)
+![signup_page](asset/images/signup.png)
 ![forgot_Password](asset/images/forgotpassword.png)
